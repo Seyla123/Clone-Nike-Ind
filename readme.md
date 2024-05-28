@@ -295,5 +295,5 @@ Contributions are welcome! If you would like to contribute, please follow these 
 
 For any questions, feel free to reach out:
 
-- **Your Name** - [mrrseyla.758@gmail.com](mailto:mrrseyla.758@gmail.com)
+- **Seav Seyla** - [mrrseyla.758@gmail.com](mailto:mrrseyla.758@gmail.com)
 - GitHub: [@Seyla123](https://github.com/seyla123)
